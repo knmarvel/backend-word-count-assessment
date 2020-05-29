@@ -1,3 +1,5 @@
+![Kano's logo](https://i.imgur.com/Yc5nxbI.png)
+
 # WordCount
 
 In this assignment you will use your knowledge of Python basic strings,
